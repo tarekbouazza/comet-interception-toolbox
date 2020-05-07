@@ -4,13 +4,10 @@ Comet interception toolbox is a set of python programs and simulations aiming to
 
 ### List of the project tasks
 
-[x] Comet interception problem formulation
-
-[x] Astrodynamics modeling and simulations
-
-[] Solving the corresponding optimal control problem
+- [x] Comet interception problem formulation
+- [x] Astrodynamics modeling and simulations
+- [ ] Solving the corresponding optimal control problem
 
 ### Contributing
 All types of remarks and requests are welcome.
-
 For major changes, please open an issue first to discuss what you would like to change.
